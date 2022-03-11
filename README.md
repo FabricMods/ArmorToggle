@@ -18,9 +18,9 @@ What you can toggle:<br>
 * Boots
 
 ## Images
-
+![Usage](./armor_hidden.png)<br>
 ![Usage](./keybinds.png)
-![Usage](./armor_hidden.png)
+![Usage](./armor_visible.png)
 ![Usage](./armor_hidden_players.png)
 ![Usage](./only_elytra.png)
 
