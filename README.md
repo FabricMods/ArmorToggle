@@ -7,7 +7,7 @@ https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all
 
 ## Usage
 
-Toggle visibility of armor pieces individually with keybinds.<br>
+Toggle visibility of armor pieces individually with keybinds. It also remembers your choices!<br>
 Now you can finally hide the armor of your friends and appreciate their skins.<br>
 What you can toggle:<br>
 * The mod itself (Default 'U')
