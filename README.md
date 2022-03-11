@@ -17,7 +17,7 @@ What you can toggle:<br>
 * Leggings
 * Boots
 
-CurseForge:
+CurseForge:<br>
 https://www.curseforge.com/minecraft/mc-mods/fabric-armor-toggle
 
 ## Images
