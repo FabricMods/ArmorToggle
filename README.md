@@ -2,14 +2,14 @@
 
 ## Dependencies
 
-This mod requires the Fabric API to be installed (Keybinds)
+This mod requires the Fabric API to be installed (Keybinds)<br>
 https://www.curseforge.com/minecraft/mc-mods/fabric-api/files/all
 
 ## Usage
 
-Toggle visibility of armor pieces individually with keybinds.
-Now you can finally hide the armor of your friends and appreciate their skins.
-What you can toggle:
+Toggle visibility of armor pieces individually with keybinds.<br>
+Now you can finally hide the armor of your friends and appreciate their skins.<br>
+What you can toggle:<br>
 * The mod itself (Default 'U')
 * Helmet
 * Chestplate
