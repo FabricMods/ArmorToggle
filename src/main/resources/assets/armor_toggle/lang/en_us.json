@@ -1,0 +1,9 @@
+{
+  "category.armor_toggle": "Armor Toggle",
+  "key.armor_toggle.toggle": "Toggle Visible Armor",
+  "key.armor_toggle.toggle_head": "Toggle Helmet",
+  "key.armor_toggle.toggle_chest": "Toggle Chestplate",
+  "key.armor_toggle.toggle_legs": "Toggle Leggings",
+  "key.armor_toggle.toggle_feet": "Toggle Boots",
+  "key.armor_toggle.toggle_elytra": "Toggle Elytra"
+}

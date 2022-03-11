@@ -1,0 +1,38 @@
+{
+  "schemaVersion": 1,
+  "id": "armor_toggle",
+  "version": "${version}",
+
+  "name": "Armor Toggle",
+  "description": "Toggles the visibility of armor for players, including your own. Great for parties!",
+  "authors": [
+    "Frekvens1"
+  ],
+  "contact": {
+    "homepage": "https://FrekTech.net/",
+    "sources": "https://github.com/FabricMods/ArmorToggle"
+  },
+
+  "license": "CC0-1.0",
+  "icon": "assets/armor_toggle/icon.png",
+
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.frektech.armor_toggle.Main"
+    ]
+  },
+  "mixins": [
+    "armor_toggle.mixins.json"
+  ],
+
+  "depends": {
+    "fabricloader": ">=0.13.3",
+    "fabric": "*",
+    "minecraft": ">=1.17",
+    "java": ">=17"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
